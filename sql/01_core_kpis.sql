@@ -1,6 +1,6 @@
 /* RetailEdge Analytics Platform
    CORE-1: Business KPIs from AdventureWorks
-   Author: <Your Name>
+   Author: VK
    Date: 12/27/2025
 */
 
