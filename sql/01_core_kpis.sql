@@ -1,6 +1,6 @@
 /* RetailEdge Analytics Platform
    CORE-1: Business KPIs from AdventureWorks
-   Author: Vasanth Kanapala
+   Author: <Your Name>
    Date: 12/27/2025
 */
 
